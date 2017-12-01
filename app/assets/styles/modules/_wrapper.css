@@ -26,6 +26,10 @@
 	max-width: 976px;
 }
 
+.wrapper--narrow {
+	max-width: 478px;
+}
+
 .wrapper--b-margin {
 
 	wrapper--b-margin {
