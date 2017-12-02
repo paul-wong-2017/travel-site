@@ -1,5 +1,5 @@
 .site-header {
-	padding: 10.5px 0;
+	padding: 10px 0;
 	position: absolute;
 	width: 100%;
 	z-index: 2;
@@ -43,7 +43,7 @@
 }
 
 .site-header--dark .site-header__logo {
-	transform: scale(0.57);
+	transform: scale(0.55);
 }
 
 .site-header__logo__graphic {
